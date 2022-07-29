@@ -1,0 +1,14 @@
+
+public class Exe_02 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int valor;
+		valor = 5;
+		
+		System.out.println("\nValor = " + valor);
+		
+	}
+
+}
