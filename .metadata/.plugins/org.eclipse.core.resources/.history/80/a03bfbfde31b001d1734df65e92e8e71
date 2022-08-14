@@ -1,0 +1,11 @@
+
+public class Exe_06 {
+
+	switch (numero) {
+	case 1:
+		System.out.println("UM");
+		
+		}
+		
+	}
+}

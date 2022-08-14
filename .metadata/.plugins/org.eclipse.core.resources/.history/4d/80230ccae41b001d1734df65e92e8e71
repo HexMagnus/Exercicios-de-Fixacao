@@ -1,0 +1,12 @@
+
+public class Exe_06 {
+
+	let signo ="Leão";
+	
+	switch(signo) {
+	case "Áries":
+		conseole.log("De 21 de março a 20 de abril");
+		}
+		
+	}
+}
