@@ -1,0 +1,9 @@
+
+public class Exe_07 {
+
+	public class Aula07{
+		int idade = 1000;
+		String categoria;
+		
+	}
+}

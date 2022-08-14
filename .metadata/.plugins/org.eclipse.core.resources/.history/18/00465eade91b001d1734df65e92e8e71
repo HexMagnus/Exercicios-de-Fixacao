@@ -1,0 +1,18 @@
+
+public class Exe_07 {
+
+	public class Aula07{
+	
+		String categoria;
+	
+	 int idade = 17;	
+	 if(idade<15) {
+		 categoria = "Categoria Infantil";
+	 }else if (idade >= 15 && idade <18) {
+		 categoria = "Categoria juvenil";
+	 }else {
+		 categoria = "Categoria Adulto";
+	 
+	 System.out.println(categoria);
+		}
+	}

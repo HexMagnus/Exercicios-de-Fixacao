@@ -1,0 +1,10 @@
+
+public class Exe_07 {
+
+	private static void main (String[]args) {
+	
+		int idade = 17;
+		
+	
+	
+	
