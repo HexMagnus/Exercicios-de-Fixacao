@@ -19,9 +19,9 @@ public static void main(String[] args) {
 		
 		total = combustivel*litros;
 		
-		System.out.println("Valor do combustível " +combustivel);
+		System.out.println("Valor do combustível R$" +combustivel);
 		System.out.println("Quantidade de litros = "  + litros);
-		System.out.println("Total = R$ " + total);
+		System.out.println("Total = R$  " + total);
 	    	   
        
 		}
