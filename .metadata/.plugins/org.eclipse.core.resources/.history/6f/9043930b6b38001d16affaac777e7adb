@@ -1,0 +1,31 @@
+package port_claretiano_1;
+
+import java.util.Scanner;
+
+public class Exercicio_1 {
+	
+	
+public static void main(String[] args) {
+		
+		Scanner input = new Scanner(System.in);
+		double combustivel, valor, total;
+		
+		
+		System.out.print("Informe o valor do combustível: ");
+		base= input.nextDouble();
+		
+		System.out.print("Informe o número de litros: :");
+		altura = input.nextDouble();
+		
+		areaRetangulo = base*altura;
+		
+		System.out.println("Valor do combustível -> " +base);
+		System.out.println("Quantidade de litros ->  = " +altura);
+		System.out.println("é " +areaRetangulo);
+	    	   
+
+		}
+
+	}
+
+	
